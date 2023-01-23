@@ -1,4 +1,4 @@
-<h1 align="center">🚀NLW SETUP - Trilha Ignite🚀</h1>
+<h1 align="center">🚀NLW SETUP - Ignite🚀</h1>
 
 <br>
 
@@ -18,7 +18,6 @@
 <h3>Back-end</h3>
 
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white/>)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
@@ -34,7 +33,7 @@
 
 <h2>📱 Projeto</h2>
 
-<p>O Projeto consiste em uma aplicação para controle de hábitos diários, onde o usuário pode adicionar novos hábitos para completar com o passar do tempo.</p>
+<p align="justify">O Projeto consiste em uma aplicação para controle de hábitos diários, onde o usuário pode adicionar novos hábitos para completar com o passar do tempo.</p>
 
 <p>Aplicação completa com back-end, front-end e mobile.</p>
 
