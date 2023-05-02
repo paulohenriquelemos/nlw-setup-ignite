@@ -37,4 +37,4 @@
 
 <p>Aplicação completa com back-end, front-end e mobile.</p>
 
-<img align="center"  style="border-radius: 20px;" src="./web/src/assets/nlw-setup.png">
+<img align="center"  style="border-radius: 20px;" src="./web/src/assets/layout.png">
